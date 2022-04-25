@@ -7,8 +7,8 @@ Welcome to noOS, as its name implies, noOS stands for no Operating System.
 Our team took a look at all of the competition including Windows, macOS, and various distributions of Linux. 
 We realized that they lack a variety of productivity enhancing features. 
 Sure, some applications have the ability to go fullscreen and you can disable notifications with a focus mode or do not disturb feature. 
-What all of these operating systems lack is the ability to disable all of that.
-With that in mind, we set out with a goal, to remove all distractions
+What all of these operating systems lack, however, is the ability to disable all of that.
+With that in mind, we set out with a goal, to remove all distractions.
 
 ## Technical info
 This is a 32 bit x86 kernel, that currently uses GRUB as its bootloader using the multiboot standard.
